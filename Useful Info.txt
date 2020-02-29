@@ -1,0 +1,14 @@
+GPS Sensor:
+https://create.arduino.cc/projecthub/ruchir1674/how-to-interface-gps-module-neo-6m-with-arduino-8f90ad
+
+Overlaying Software:
+https://github.com/obsproject/obs-studio
+
+OBD II:
+http://arduinodev.com/hardware/obd-kit/
+
+PYNQ Overlays:
+https://pynq.readthedocs.io/en/v2.3/pynq_overlays.html
+
+PYNQ API:
+https://pynq.readthedocs.io/en/v2.3/pynq_libraries.html
